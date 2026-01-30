@@ -44,3 +44,7 @@ html-resume/
    - Select "Open with Live Server"
 
 ## Live Demo
+The live webpage is available here: [HTML Resume](https://idreamfyrei.github.io/html-resume/)
+
+## Screenshot
+![Screenshot of HTML Resume](https://github.com/idreamfyrei/html-resume/blob/main/screenshots/Screenshot%202026-01-30%20at%2012.26.55%E2%80%AFPM.png?raw=true)
